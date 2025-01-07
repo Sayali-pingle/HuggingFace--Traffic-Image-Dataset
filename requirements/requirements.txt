@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+torch
+ultralytics
+requests
+streamlit
+folium
